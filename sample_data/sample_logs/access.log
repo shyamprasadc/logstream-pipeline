@@ -1,3 +1,7 @@
 127.0.0.1 - - [10/Oct/2024:13:55:36 +0000] "GET /index.html HTTP/1.1" 200 1024 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" 15
 192.168.1.2 - - [10/Oct/2024:13:56:01 +0000] "POST /api/v1/login HTTP/1.1" 302 512 "-" "curl/7.68.0" 45
 203.0.113.10 - - [10/Oct/2024:13:56:22 +0000] "GET /api/v1/items HTTP/1.1" 500 256 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 88
+10.0.0.5 - - [10/Oct/2024:13:57:15 +0000] "GET /api/v1/users HTTP/1.1" 200 2048 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X)" 23
+172.16.0.100 - - [10/Oct/2024:13:58:30 +0000] "PUT /api/v1/users/123 HTTP/1.1" 404 512 "-" "PostmanRuntime/7.28.0" 67
+198.51.100.25 - - [10/Oct/2024:13:59:45 +0000] "GET /static/css/main.css HTTP/1.1" 200 1536 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" 12
+203.0.113.42 - - [10/Oct/2024:14:00:12 +0000] "DELETE /api/v1/sessions HTTP/1.1" 401 256 "-" "Mozilla/5.0 (iPad; CPU OS 14_7_1 like Mac OS X)" 34
